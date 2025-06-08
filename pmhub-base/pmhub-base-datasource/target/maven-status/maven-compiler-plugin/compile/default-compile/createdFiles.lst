@@ -1,0 +1,6 @@
+com\laigeoffer\pmhub\base\datasource\config\DruidConfig.class
+com\laigeoffer\pmhub\base\datasource\aspect\DataSourceAspect.class
+com\laigeoffer\pmhub\base\datasource\service\DynamicDataSource.class
+com\laigeoffer\pmhub\base\datasource\config\DruidConfig$1.class
+com\laigeoffer\pmhub\base\datasource\properties\DruidProperties.class
+com\laigeoffer\pmhub\base\datasource\service\DynamicDataSourceContextHolder.class

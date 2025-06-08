@@ -1,0 +1,8 @@
+com\laigeoffer\pmhub\base\swagger\config\SwaggerProperties.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerAutoConfiguration.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerProperties$Contact.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerProperties$Authorization.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerWebConfiguration.class
+com\laigeoffer\pmhub\base\swagger\annotation\EnableCustomSwagger2.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerBeanPostProcessor.class
+com\laigeoffer\pmhub\base\swagger\config\SwaggerProperties$AuthorizationScope.class
