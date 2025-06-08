@@ -1,0 +1,3 @@
+com\laigeoffer\pmhub\monitor\config\WebSecurityConfigurer.class
+com\laigeoffer\pmhub\monitor\PmHubMonitorApplication.class
+com\laigeoffer\pmhub\monitor\config\PmHubStatusChangeNotifier.class
