@@ -1,0 +1,5 @@
+com\laigeoffer\pmhub\auth\service\SysLoginService.class
+com\laigeoffer\pmhub\auth\PmHubAuthApplication.class
+com\laigeoffer\pmhub\auth\controller\LoginController.class
+com\laigeoffer\pmhub\auth\service\SysPasswordService.class
+com\laigeoffer\pmhub\auth\service\SysRecordLogService.class
