@@ -1,0 +1,6 @@
+com\laigeoffer\pmhub\api\workflow\factory\ProcessFeignFallbackFactory.class
+com\laigeoffer\pmhub\api\workflow\ProcessFeignService.class
+com\laigeoffer\pmhub\api\workflow\DeployFeignService.class
+com\laigeoffer\pmhub\api\workflow\factory\DeployFeignFallbackFactory$1.class
+com\laigeoffer\pmhub\api\workflow\factory\DeployFeignFallbackFactory.class
+com\laigeoffer\pmhub\api\workflow\factory\ProcessFeignFallbackFactory$1.class

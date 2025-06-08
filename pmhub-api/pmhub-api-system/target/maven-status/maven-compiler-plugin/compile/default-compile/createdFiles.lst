@@ -1,0 +1,7 @@
+com\laigeoffer\pmhub\api\system\factory\LogFeignFallbackFactory.class
+com\laigeoffer\pmhub\api\system\LogFeignService.class
+com\laigeoffer\pmhub\api\system\factory\UserFeginFallbackFactory.class
+com\laigeoffer\pmhub\api\system\domain\dto\SysUserDTO.class
+com\laigeoffer\pmhub\api\system\factory\UserFeginFallbackFactory$1.class
+com\laigeoffer\pmhub\api\system\factory\LogFeignFallbackFactory$1.class
+com\laigeoffer\pmhub\api\system\UserFeignService.class
