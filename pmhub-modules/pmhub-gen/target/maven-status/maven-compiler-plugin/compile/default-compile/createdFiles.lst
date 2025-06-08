@@ -1,0 +1,14 @@
+com\laigeoffer\pmhub\gen\util\VelocityUtils.class
+com\laigeoffer\pmhub\gen\domain\GenTableColumn.class
+com\laigeoffer\pmhub\gen\config\GenConfig.class
+com\laigeoffer\pmhub\gen\mapper\GenTableColumnMapper.class
+com\laigeoffer\pmhub\gen\util\GenUtils.class
+com\laigeoffer\pmhub\gen\mapper\GenTableMapper.class
+com\laigeoffer\pmhub\gen\util\VelocityInitializer.class
+com\laigeoffer\pmhub\gen\service\IGenTableColumnService.class
+com\laigeoffer\pmhub\gen\domain\GenTable.class
+com\laigeoffer\pmhub\gen\service\GenTableServiceImpl.class
+com\laigeoffer\pmhub\gen\PmHubGenApplication.class
+com\laigeoffer\pmhub\gen\controller\GenController.class
+com\laigeoffer\pmhub\gen\service\GenTableColumnServiceImpl.class
+com\laigeoffer\pmhub\gen\service\IGenTableService.class
